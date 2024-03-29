@@ -1,0 +1,15 @@
+Average Throughput for iteration 1: 4400000 Mbps
+Average Throughput for iteration 2: 800000 Mbps
+Average Throughput for iteration 3: 1300000 Mbps
+Average Throughput for iteration 4: 60000 Mbps
+Average Throughput for iteration 5: 1300000 Mbps
+Average Throughput for iteration 6: 1300000 Mbps
+Average Throughput for iteration 7: 1300000 Mbps
+Average Throughput for iteration 8: 1350000 Mbps
+Average Throughput for iteration 9: 1350000 Mbps
+Average Throughput for iteration 10: 1350000 Mbps
+Average Throughput for iteration 11: 1350000 Mbps
+Average Throughput for iteration 12: 1350000 Mbps
+Average Throughput for iteration 13: 1350000 Mbps
+Average Throughput for iteration 14: 1350000 Mbps
+Average Throughput for iteration 15: 1350000 Mbps

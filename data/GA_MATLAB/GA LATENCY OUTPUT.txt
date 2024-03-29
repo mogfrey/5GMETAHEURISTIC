@@ -1,0 +1,18 @@
+Latency for iteration 1: 44 ms
+Latency for iteration 2: 22 ms
+Latency for iteration 3: 89 ms
+Latency for iteration 4: 31 ms
+Latency for iteration 5: 21 ms
+Latency for iteration 6: 19.5 ms
+Latency for iteration 7: 18 ms
+Latency for iteration 8: 18.5 ms
+Latency for iteration 9: 19 ms
+Latency for iteration 10: 18 ms
+Latency for iteration 11: 18 ms
+Latency for iteration 12: 18 ms
+Latency for iteration 13: 19.5 ms
+Latency for iteration 14: 19 ms
+Latency for iteration 15: 19 ms
+
+Lowest Processing Time: 18.512293 ms
+	56.0000   15.0000    0.0000   22.1066

@@ -1,0 +1,19 @@
+Latency for iteration 1: 1680 ms
+Latency for iteration 2: 80 ms
+Latency for iteration 3: 90 ms
+Latency for iteration 4: 20 ms
+Latency for iteration 5: 30 ms
+Latency for iteration 6: 20 ms
+Latency for iteration 7: 10 ms
+Latency for iteration 8: 9 ms
+Latency for iteration 9: 5 ms
+Latency for iteration 10: 8.5 ms
+Latency for iteration 11: 8.5 ms
+Latency for iteration 12: 8.5 ms
+Latency for iteration 13: 8.5 ms
+Latency for iteration 14: 8.5 ms
+Latency for iteration 15: 8.5 ms
+
+
+Best Parameters:
+50.0000   15.0000    0.0000    9.0108

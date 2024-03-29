@@ -1,0 +1,35 @@
+2023-11-28 11:02:36 - INFO - Deploying OAI 5G Core using OSM
+2023-11-28 11:05:47 - INFO - Deploying OAI 5G gNB using OSM
+2023-11-28 11:08:59 - INFO - Deploying OAI 5G UE using OSM
+2023-11-28 11:14:15 - INFO - Iteration 1/30, Best Score: 0.146
+2023-11-28 11:25:42 - INFO - Iteration 2/30, Best Score: 0.146
+2023-11-28 11:33:10 - INFO - Iteration 3/30, Best Score: 0.146
+2023-11-28 11:44:37 - INFO - Iteration 4/30, Best Score: 0.146
+2023-11-28 11:52:05 - INFO - Iteration 5/30, Best Score: 0.127
+2023-11-28 12:05:32 - INFO - Iteration 6/30, Best Score: 0.127
+2023-11-28 12:11:00 - INFO - Iteration 7/30, Best Score: 0.127
+2023-11-28 12:19:27 - INFO - Iteration 8/30, Best Score: 0.127
+2023-11-28 12:29:55 - INFO - Iteration 9/30, Best Score: 0.127
+2023-11-28 12:39:22 - INFO - Iteration 10/30, Best Score: 0.127
+2023-11-28 12:45:50 - INFO - Iteration 11/30, Best Score: 0.127
+2023-11-28 12:58:17 - INFO - Iteration 12/30, Best Score: 0.127
+2023-11-28 13:09:45 - INFO - Iteration 13/30, Best Score: 0.127
+2023-11-28 13:17:12 - INFO - Iteration 14/30, Best Score: 0.127
+2023-11-28 13:27:40 - INFO - Iteration 15/30, Best Score: 0.127
+2023-11-28 13:36:07 - INFO - Iteration 16/30, Best Score: 0.127
+2023-11-28 13:45:35 - INFO - Iteration 17/30, Best Score: 0.127
+2023-11-28 13:55:02 - INFO - Iteration 18/30, Best Score: 0.127
+2023-11-28 14:03:30 - INFO - Iteration 19/30, Best Score: 0.127
+2023-11-28 14:13:57 - INFO - Iteration 20/30, Best Score: 0.127
+2023-11-28 14:21:25 - INFO - Iteration 21/30, Best Score: 0.127
+2023-11-28 14:32:52 - INFO - Iteration 22/30, Best Score: 0.127
+2023-11-28 14:45:20 - INFO - Iteration 23/30, Best Score: 0.127
+2023-11-28 14:51:47 - INFO - Iteration 24/30, Best Score: 0.127
+2023-11-28 15:00:15 - INFO - Iteration 25/30, Best Score: 0.127
+2023-11-28 15:10:42 - INFO - Iteration 26/30, Best Score: 0.127
+2023-11-28 15:22:33 - INFO - Iteration 27/30, Best Score: 0.127
+2023-11-28 15:31:24 - INFO - Iteration 28/30, Best Score: 0.127
+2023-11-28 15:47:15 - INFO - Iteration 29/30, Best Score: 0.127
+2023-11-28 16:08:06 - INFO - Iteration 30/30, Best Score: 0.127
+2023-11-28 16:08:23 - INFO - Optimization completed. Best Score: 0.127, Best Position: [-120   -9  173  219   24  148    5   25  245  313]
+

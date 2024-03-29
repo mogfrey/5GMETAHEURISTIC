@@ -1,0 +1,35 @@
+2023-11-18 21:46:23 - INFO - Deploying OAI 5G Core using OSM
+2023-11-18 21:49:11 - INFO - Deploying OAI 5G gNB using OSM
+2023-11-18 21:52:02 - INFO - Deploying OAI 5G UE using OSM
+2023-11-18 22:03:45 - INFO - Iteration 1/30: Best Score = 14.7
+2023-11-18 22:17:29 - INFO - Iteration 2/30: Best Score = 11.5
+2023-11-18 22:33:17 - INFO - Iteration 3/30: Best Score = 15.7
+2023-11-18 22:52:04 - INFO - Iteration 4/30: Best Score = 13.6
+2023-11-18 23:02:53 - INFO - Iteration 5/30: Best Score = 18.9
+2023-11-18 23:15:46 - INFO - Iteration 6/30: Best Score = 20.02
+2023-11-18 23:32:38 - INFO - Iteration 7/30: Best Score = 21.0
+2023-11-18 23:45:31 - INFO - Iteration 8/30: Best Score = 20.09
+2023-11-19 00:02:25 - INFO - Iteration 9/30: Best Score = 20.0
+2023-11-19 00:19:19 - INFO - Iteration 10/30: Best Score = 20.05
+2023-11-19 00:32:14 - INFO - Iteration 11/30: Best Score = 20.09
+2023-11-19 00:43:09 - INFO - Iteration 12/30: Best Score = 20.09
+2023-11-19 01:02:05 - INFO - Iteration 13/30: Best Score = 20.03
+2023-11-19 01:15:02 - INFO - Iteration 14/30: Best Score = 21.0
+2023-11-19 01:32:00 - INFO - Iteration 15/30: Best Score = 21.01
+2023-11-19 01:44:58 - INFO - Iteration 16/30: Best Score = 20.04
+2023-11-19 02:01:57 - INFO - Iteration 17/30: Best Score = 20.01
+2023-11-19 02:19:57 - INFO - Iteration 18/30: Best Score = 20.01
+2023-11-19 02:31:57 - INFO - Iteration 19/30: Best Score = 21.0
+2023-11-19 02:45:58 - INFO - Iteration 20/30: Best Score = 21.0
+2023-11-19 03:02:00 - INFO - Iteration 21/30: Best Score = 21.0
+2023-11-19 03:13:03 - INFO - Iteration 22/30: Best Score = 20.07
+2023-11-19 03:29:07 - INFO - Iteration 23/30: Best Score = 21.03
+2023-11-19 03:43:34 - INFO - Iteration 24/30: Best Score = 21.02
+2023-11-19 04:02:01 - INFO - Iteration 25/30: Best Score = 21.0
+2023-11-19 04:16:28 - INFO - Iteration 26/30: Best Score = 21.0
+2023-11-19 04:35:55 - INFO - Iteration 27/30: Best Score = 21.0
+2023-11-19 04:49:22 - INFO - Iteration 28/30: Best Score = 21.0
+2023-11-19 05:05:49 - INFO - Iteration 29/30: Best Score = 21.0
+2023-11-19 05:17:16 - INFO - Iteration 30/30: Best Score = 21.0
+2023-11-19 05:17:34 - INFO - Optimization completed. Best Score: 21.0, Best Position: [-85  -6 241 220  61 134   4  19 351 224]
+
